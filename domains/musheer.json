@@ -1,0 +1,11 @@
+{
+  "domain": "musheer",
+  "owner": {
+    "email": "musheeran165@gmail.com",
+    "github": "Musheer0"
+  },
+  "record": {
+    "CNAME": "musheer-dev.vercel.app"
+  },
+  "proxied": false
+}
